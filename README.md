@@ -6,7 +6,7 @@
 
 Facebook: <a href="https://facebook.com/itzfeminisce">@Itzfeminisce</a>
 
-GitHub: <a href="https://github.com/itzfeminisce/itzfeminisce">@itzfeminisce</a>
+GitHub: <a href="https://github.com/itzfeminisce">@itzfeminisce</a>
 
 <!--
 Itzfeminisce/Itzfeminisce is a ✨ special ✨ repository because its `README.md` (this file) appears his GitHub profile.

@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Itzfeminisce
-- 👀 I’m interested in coding and learning new concepts everyday 
-- 🌱 I’m currently learning dart/flutter. 
-- 💞️ I’m looking to collaborate on projects that'll skyrocket my coding experience and knowledge 
-- 📫 How to reach me 
-
-Facebook: <a href="https://facebook.com/itzfeminisce">@Itzfeminisce</a>
+- 👀 7Yrs+ Productive Fullstack Developer
+- 🌱 I’m enjoy learning new technologies. 
+- 💞️ Javascript/Typescript, PHP/Laravel
+- 📫 How to reach me  
 
 GitHub: <a href="https://github.com/itzfeminisce">@itzfeminisce</a>
 
